@@ -19,6 +19,8 @@ A Dataset on PCB component electric resistance 0805
   然后是第三步（3）如何快速获取检测区域：  
   方法：通过标定图像尺寸与PCB设计文件，生成PCB板上元器件从设计文件到矫正后图像的映射关系。PCB图像中检测域提取流程如下图所示：  
   
+  ![image]()
+  
   
   
   
