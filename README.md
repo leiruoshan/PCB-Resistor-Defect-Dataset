@@ -36,7 +36,9 @@ A Dataset on PCB component electric resistance 0805
   
   下图展示了数据增强后的部分样本。  
   
-  ![image]()
+  ![image](images/数据增强后的部分样本.png)  
+  
+  
 
   
   
