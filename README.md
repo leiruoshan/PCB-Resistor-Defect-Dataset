@@ -1,5 +1,5 @@
-# PCB-electric-resistance-Dataset  
-A Dataset on PCB component electric resistance 0805  
+# PCB Resistor Defect Dataset  
+A Dataset on PCB component resistor 0805  
 
 数据集百度网盘链接：  
 链接: https://pan.baidu.com/s/19F-ecBOuDcb7uH2Fn2N6Uw 提取码: ts4q  
