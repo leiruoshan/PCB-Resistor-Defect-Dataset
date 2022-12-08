@@ -8,7 +8,7 @@ A Dataset on PCB component resistor 0805
 
 ![image](images/二维码.jpg)
 
-论文链接：[A Precise Convolutional Neural Network-based Classification and Pose Prediction Method for PCB Component Quality Control](https://ieeexplore.ieee.org/document/9847518)
+论文链接：[A Precise Convolutional Neural Network-based Classification and Pose Prediction Method for PCB Component Quality Control](https://ieeexplore.ieee.org/document/9847518).
 
 本博客以0805型封装的电阻为例，介绍PCB板上0805型电阻数据集的制作过程。总体来看，制作数据集的方法主要可以分为以下四步：  
 （1）获取高水平图像；  
